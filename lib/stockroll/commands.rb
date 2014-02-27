@@ -39,6 +39,12 @@ module Stockroll
 			puts "Info: delete is ok.".yellow
 		end
 
+		desc "clear", "clear all stock codes"
+		def clear()
+			self.remove_all_codes()
+			puts "Info: clear all codes is successed.".yellow
+		end
+
 		default_task :start
 
 		protected
@@ -82,6 +88,11 @@ module Stockroll
 				File.open(CONF_FILE_PATH,'w') do |f|
 					f.write(n.join(','))
 				end
+			end
+		end
+		def remove_all_codes()
+			File.open(CONF_FILE_PATH,'w') do |f|
+				f.write('')
 			end
 		end
 		def check_codes(codes)

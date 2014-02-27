@@ -1,7 +1,8 @@
 # Stockroll
 
+## To show real-time stock quotes
 
-TODO: Write a gem description
+![screenshot]("/screenshot.png")
 
 ## Installation
 
@@ -18,8 +19,11 @@ Or install it yourself as:
     $ gem install stockroll
 
 ## Usage
-
-TODO: Write usage instructions here
+1. Very simple to use, only type 'stock' in your console and let's fun.   
+2. Type 'stock --help' to view all commands.    
+3. Type 'stock add your_stock_code_xxx' , add stock code into config file.    
+4. Type 'stock delete your_stock_code_xxx', delete a stock code from config file.  
+5. Type 'stock clear' to clear all stock code from config file.  
 
 ## Contributing
 

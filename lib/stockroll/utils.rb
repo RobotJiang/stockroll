@@ -68,7 +68,7 @@ module Stockroll
 												clrtoeol() #clear line	
 											}
 
-											Curses.setpos(ypos,12)
+											Curses.setpos(ypos,11)
 											Curses.attron(A_NORMAL|A_DIM) {
 												Curses.addstr(code)
 											}
