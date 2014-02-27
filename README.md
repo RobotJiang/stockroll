@@ -1,8 +1,8 @@
 # Stockroll
 
-## To show real-time stock quotes
-
 ![screenshot](/screenshot.png)
+
+### To show real-time stock quotes
 
 ## Installation
 
