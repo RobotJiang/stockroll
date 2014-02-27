@@ -2,7 +2,7 @@
 
 ## To show real-time stock quotes
 
-![screenshot]("/screenshot.png")
+![screenshot](/screenshot.png)
 
 ## Installation
 
