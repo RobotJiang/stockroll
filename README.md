@@ -37,4 +37,8 @@ Or install it yourself as:
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+5. Create new Pull Request   
+
+<div style="text-align:center">
+	<img src="http://codetoki.com/assets/badges/ruby-badge-ba1a5f6efaddf263217e410a2b1f1769.png"/>
+</div>
