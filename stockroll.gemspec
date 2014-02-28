@@ -21,8 +21,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
 	spec.add_development_dependency "rspec"
-	spec.add_dependency "thor"
-	spec.add_dependency "colorize"
-	spec.add_dependency "em-http-request"
-	spec.add_dependency "curses"
+	spec.add_dependency "thor" , "~> 0.18.1"
+	spec.add_dependency "colorize" , "~> 0.6.0"
+	spec.add_dependency "em-http-request" , "~> 1.1.2"
+	spec.add_dependency "curses" , "~> 1.0.0"
 end

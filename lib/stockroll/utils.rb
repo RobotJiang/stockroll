@@ -131,6 +131,7 @@ module Stockroll
 					c = getch
 					case c
 						when /q/i
+							EM.stop if EM
 							another_th.exit()
 							Curses.close_screen
 							exit(0)
