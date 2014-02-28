@@ -2,10 +2,10 @@ PATH
   remote: .
   specs:
     stockroll (0.0.1)
-      colorize
-      curses
-      em-http-request
-      thor
+      colorize (~> 0.6.0)
+      curses (~> 1.0.0)
+      em-http-request (~> 1.1.2)
+      thor (~> 0.18.1)
 
 GEM
   remote: https://rubygems.org/
