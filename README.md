@@ -39,4 +39,7 @@ Or install it yourself as:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request   
 
-<img align='center' src="http://codetoki.com/assets/badges/ruby-badge-ba1a5f6efaddf263217e410a2b1f1769.png"/>
+
+![badge](http://codetoki.com/assets/badges/ruby-badge-ba1a5f6efaddf263217e410a2b1f1769.png)   
+
+
