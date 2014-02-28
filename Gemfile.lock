@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    stockroll (0.0.1)
+    stockroll (0.0.2)
       colorize (~> 0.6.0)
       curses (~> 1.0.0)
       em-http-request (~> 1.1.2)
