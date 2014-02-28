@@ -1,4 +1,4 @@
-# Stockroll
+# Stockroll [![Gem Version](https://badge.fury.io/rb/stockroll.png)](http://badge.fury.io/rb/stockroll)
 ### To show real-time stock quotes
 
 ![screenshot](/screenshot.png)
