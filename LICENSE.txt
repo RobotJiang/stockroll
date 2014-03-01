@@ -1,4 +1,4 @@
-Copyright (c) 2014 Raymond Jiang
+Copyright (c) 2014 Robot Jiang
 
 MIT License
 
