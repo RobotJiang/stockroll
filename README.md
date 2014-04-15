@@ -1,4 +1,4 @@
-# Stockroll [![Gem Version](https://badge.fury.io/rb/stockroll.png)](http://badge.fury.io/rb/stockroll)
+# Stockroll [![Gem Version](https://badge.fury.io/rb/stockroll.png)](http://badge.fury.io/rb/stockroll)   [![Build Status](https://travis-ci.org/RobotJiang/stockroll.svg)](https://travis-ci.org/RobotJiang/stockroll)
 ### To show real-time stock quotes
 
 ![screenshot](/screenshot.png)
